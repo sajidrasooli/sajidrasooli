@@ -1,4 +1,4 @@
-🕶️ Hi, I'm Sajid
+🕶️ Hi, This is Sajid Rasooli
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Frontend+Developer;Future+Ethical+Hacker;Networking+%26+Cybersecurity+Learner;Always+Learning+%7C+Always+Building" />
